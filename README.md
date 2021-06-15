@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kamikosm
-- 👀 I’m interested in game,anm
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 爱好是游戏，动漫，音乐
+- 🌱正在学习前端
+- 💞️ 前端，java，爬虫
+- 📫 qq：2966569584
 
 <!---
 Kamikosm/Kamikosm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
